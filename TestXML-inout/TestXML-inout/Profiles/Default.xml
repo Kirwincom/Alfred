@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <Commands>
+    <Command>
+      <CommandID>1</CommandID>
+      <CommandString>Boost</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <ActionID>1</ActionID>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>Engaging turbo</Context>
+        </CommandAction>
+      </ActionSequence>
+  </Command>
+    <Command>
+      <CommandID>2</CommandID>
+      <CommandString>Hello</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <ActionID>1</ActionID>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>Hello Commander</Context>
+        </CommandAction>
+      </ActionSequence>
+    </Command>
+    <Command>
+      <CommandID>3</CommandID>
+      <CommandString>What time is it?</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <ActionID>1</ActionID>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>it's party time</Context>
+        </CommandAction>
+      </ActionSequence>
+    </Command>
+  </Commands>
